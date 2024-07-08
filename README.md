@@ -1,10 +1,10 @@
 # desafioDioBanco 🚩
 
-Desafio baseado na Live Expert Talk 02/08/2021.
+Desafio baseado na aula "Abstraindo um Bootcamp Usando Orientação a Objetos em Java".
 
 - Objetivo 📜
 
-Criar um bootcamp baseado nos conceitos dos pilares da POO. A ideia é atualizar com tempo e adicionar novas funcionalidades...
+Criar um bootcamp usando Orientação a Objetos em Java
 
 - Tecnologias 👨‍💻
 
@@ -163,6 +163,6 @@ Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami
 
 - Atualizações 🕐
 
-07/07/2024
+08/07/2024
 
 Adição do bootcamp no github
