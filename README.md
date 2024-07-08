@@ -1,4 +1,4 @@
-# desafioDioBanco 🚩
+# Desafio bootcamp DIO 🚩
 
 Desafio baseado na aula "Abstraindo um Bootcamp Usando Orientação a Objetos em Java".
 
